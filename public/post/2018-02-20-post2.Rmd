@@ -1,0 +1,11 @@
+---
+title: Post2
+author: Balasubramian Narasimhan
+date: '2018-02-20'
+slug: post2
+categories: []
+tags: []
+---
+```{r Post2}
+plot(11:20)
+```
